@@ -93,9 +93,6 @@ advancedModelsServer <- function(id) {
       })
     })
 
-    # ... Torch models (skipped for brevity in replace block, assuming unchanged) ...
-    # Wait, I need to keep the Torch definitions. I will target the model_results block specifically.
-    
     # --------------------------------------------------------------------------
     # Model Logic
     # --------------------------------------------------------------------------
