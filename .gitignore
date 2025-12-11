@@ -1,0 +1,25 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Database files (Financial Data)
+*.duckdb
+*.duckdb.wal
+*.db
+*.sqlite
+
+# Excel and CSV files (Financial Data)
+*.csv
+*.xlsx
+*.xls
+
+# R Data Serialization (Financial Data)
+*.rds
+
+# Environment Variables
+.env
+
+# System files
+.DS_Store
